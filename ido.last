@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/bytedance/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/bytedance/Desktop/learn/sicp/"
+ "/Users/bytedance/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "1.4.scm"
+ "test.scm"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/bytedance/.emacs.d/" (24244 984 271811 537000) ".git/" "elpa/" "init.el" "auto-save-list/" "ido.last~" "lisp/" "ido.last" "ac-comphist.dat" "../" "./")
+
+ ("/Users/bytedance/Desktop/learn/sicp/" (24244 1053 536249 120000) "1.2.scm" "1.3.scm~" "1.3.scm" "#test.scm#" "../" "./")
+
+ ("/Users/bytedance/" (24244 432 427022 189000) ".conda/" ".viminfo" ".bash_history" ".gitconfig" ".zcompdump-C02XG2SEJG5L-5.7.1" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".vscode/" "Documents/" ".zcompdump-C02XG2SEJG5L-5.3" ".Trash/" ".emacs~" "Applications/" "Movies/" ".ssh/" ".anaconda/" "Public/" ".bash_profile.bk" ".bash_sessions/" ".cups/" ".larkdrive/" ".emacs.d/" ".test.c.swp" ".oracle_jre_usage/" ".lesshst" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".shell.pre-oh-my-zsh" ".pylint.d/" "Pictures/" ".warprc" ".local/" ".zshrc" ".wget-hsts" ".CFUserTextEncoding" ".DS_Store" "go/" ".condarc" "Music/" ".config/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
